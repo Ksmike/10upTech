@@ -8,8 +8,8 @@ Socket WebApp Communicaton platform
 Parent Container and two child Components 
 ```bash
   -App.tsx
-  	├── Projectpage.tsx
-  	├── ChatPage.tsx
+  ├── Projectpage.tsx
+  ├── ChatPage.tsx
 ```
 Graphics available on request 
 
