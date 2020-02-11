@@ -1,6 +1,6 @@
 Sample of code by Michael Copeland
 
-http://freakout.tech/#/
+https://freakout.tech/#/
 
 ## ChatApp
 Socket WebApp Communicaton platform
