@@ -1,7 +1,8 @@
 Sample of code by Michael Copeland
 
-## ChatApp
+http://freakout.tech/#/
 
+## ChatApp
 Socket WebApp Communicaton platform
 Parent Container and two child Components 
   -App.tsx
@@ -10,8 +11,10 @@ Parent Container and two child Components
   	|
   	 - ChatPage.tsx
 
+Graphics available on request 
 
-## QR Code scanner,
+## QR Code scanner
+https://www.freakout.tech/#/bezos/dashboard/picker/hook
 
 Basic implimentation of a QR code scanner
 Example demonstration of Hooks
